@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+<head>
+      <meta charset="utf-8"/>
+      <title>Hoja de vida Pincay Pibaque Sheyla</title>
+<body bgcolor="#5DADE2">
+      <font color="#FBFCFC" size="40" face="Modern Love">
+      <h1>Bienvenido a mi página Web</h1>
+      </font>
+<center>
+<p>
+      <font color="#A569BD" size="25" face="Times New Roman"> 
+      <h2><u>Hoja de vida</u></h2>
+      </font>  
+</p>  
+      <img src="D:\/Foto Sheyla.png "width="150" height="200">
+<p>
+      <font color="black" size="25" face="Times New Roman"> <b>Hobbies</b> </font> 
+</p>
+<ul>
+      <li>Cantar</li>
+      <li>Leer libros</li>
+      <li>Explorar nuevos sitios</li>
+</ul>
+<p>
+<table>
+<tr>
+    <td><strong>Información general</strong></td>
+    <td><strong><font color="#E74C3C" size="3" face="Times New Roman">Respuesta</strong></td> 
+    </font>
+</tr>
+<tr>
+    <td><strong>Nombres/Apellidos</strong></td>
+    <td><strong><font color="#FBFCFC" size="3" face="Times New Roman">Sheyla Julissa Pincay Pibaque</strong></td>
+    </font>
+</tr>
+<tr>
+    <td><strong>Dirección</strong></td>
+    <td><strong><font color="#FBFCFC" size="3" face="Times New Roman">Durán, el recreo 4ta etapa Mz"F" Sl"2"</strong></td>
+    </font>
+</tr>
+<tr>
+    <td><strong>N° Matrícula</strong></td>
+    <td><strong><font color="#FBFCFC" size="3" face="Times New Roman">202109351</strong></td>
+    </font>
+</tr>
+<tr>
+    <td><strong>Fecha de nacimiento</strong></td>
+    <td><strong><font color="#FBFCFC" size="3" face="Times New Roman">2 de enero del 2003(18 años)</strong></td>
+    </font>
+</tr>
+<tr>
+    <td><strong>Teléfono celular</strong></td>
+    <td><strong><font color="#FBFCFC" size="3" face="Times New Roman">0967387155</strong></td>
+    </font>
+</tr>
+<tr>
+    <td><strong>Información Académica</strong></td>
+    <td><strong><font color="#E74C3C" size="3" face="Times New Roman">Respuesta</strong></td> 
+    </font>
+</tr>
+<tr>
+    <td><strong>Primaria</strong></td>
+    <td><strong><font color="#FBFCFC" size="3" face="Times New Roman">Benigno Rodas Maldonado</strong></td>
+    </font>
+</tr>
+<tr>
+    <td><strong>Secundaria</strong></td>
+    <td><strong><font color="#FBFCFC" size="3" face="Times New Roman">Enrique Gil Gilbert</strong></td>
+    </font>
+</tr>
+<tr>
+    <td><strong>Universidad</strong></td>
+    <td><strong><font color="#FBFCFC" size="3" face="Times New Roman">ESPOL-Cursando la carrera de ciencias computacionales</strong></td>
+    </font>
+</tr>
+</p>
+<p>
+      <h3><font color="black" size="25" face="Times New Roman"> <b>Más sobre mi</b> </font> <h3> 
+</p> 
+<p>
+<video autoplay controls src="D:\/video de computacion sheyla.mp4" width"200" height="250"> </video>
+</p>
+</center>
+</body>
+</html>
